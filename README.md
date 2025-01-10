@@ -7,9 +7,9 @@ Expected Output:
 The program generates an array of random integers and visualizes the sorting process with color changes and sounds. It supports different sorting algorithms, showing their step-by-step execution.
 
 Requirements:
-Python 3.x
-Tkinter (for the UI)
-ttkbootstrap (for UI styling)
+Python 3.x ,
+Tkinter (for the UI) ,
+ttkbootstrap (for UI styling) ,
 winsound (for sound effects)
 
 Methodology:
